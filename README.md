@@ -1,3 +1,3 @@
 # travisexpress
 test purpose
-[![travis status](https://travis-ci.com/JingLMalan/travisexpress.svg?branch=master)](https://wwwhttps://travis-ci.com/JingLMalan/travisexpress.npmjs.com/package/react)
+[![travis status](https://img.shields.io/travis/JingLMalan/travisexpress.svg)](https://wwwhttps://travis-ci.com/JingLMalan/travisexpress.npmjs.com/package/react)
