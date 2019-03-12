@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/JingLMalan/travisexpress.git",
   "author": "jing.l.mlana <jing.l.malan@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
